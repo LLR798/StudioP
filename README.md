@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <img alt="StudioP" src="https://github.com/LLR798/StudioP/blob/main/assets/imagens/previews/preview.png?raw=true" width="100%">
+  <img alt="StudioP" src="https://github.com/LLR798/StudioP/blob/main/assets/previews/preview.png?raw=true" width="100%">
 </p>
 
 ## 🚀 Tecnologias
